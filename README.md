@@ -1,4 +1,4 @@
-<h1>Hi There, I'm Alexander Lammers <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm an upcoming Ph.D. in Economics with experiences in collecting, analyzing and visualizing structured and unstructured data. 
 

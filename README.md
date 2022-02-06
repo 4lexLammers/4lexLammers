@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1>Hi There, I'm Alexander Lammers <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+I'm an upcoming Ph.D. in Economics with experiences in collecting, analyzing and visualizing structured and unstructured data. 
+
+## Happy to get in touch with you
+[LinkedIn](https://www.linkedin.com/in/alexanderlammers/) | [Twitter](https://twitter.com/4lexLammers) | [Website](https://www.alexanderlammers.net/)
 
 <!--
 **4lexLammers/4lexLammers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

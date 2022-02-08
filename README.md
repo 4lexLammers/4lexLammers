@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub page!</h1>
 
-I'm an upcoming Ph.D. in Economics with experiences in collecting, analyzing and visualizing structured and unstructured data. 
+I'm an Economist with experiences in collecting, analyzing and visualizing structured and unstructured data. 
 
 ## Happy to get in touch with you
 [LinkedIn](https://www.linkedin.com/in/alexanderlammers/) | [Twitter](https://twitter.com/4lexLammers) | [Website](https://www.alexanderlammers.net/)

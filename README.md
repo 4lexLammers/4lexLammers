@@ -26,5 +26,5 @@ Co-organizer of the KI-Strategieabend Ruhrgebiet (regional AI strategy meetup, E
 ### Elsewhere
 
 [![Website](https://img.shields.io/badge/Website-alexanderlammers.de-1C3A6B?style=flat&logo=safari&logoColor=white)](https://alexanderlammers.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-alexander-lammers/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dr-alexander-lammers/](https://www.linkedin.com/in/alexanderlammers/))
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9414-5646)
